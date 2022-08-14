@@ -4,3 +4,9 @@ I am following the video : <a href ="https://www.youtube.com/watch?v=DNb1PHaokNY
 By : <a href ="https://www.youtube.com/user/mohamedYoussfi">Mohamed YOUSSFI</a>
 <h3>Java Project</h3>
 I try to apply the Inversion of control on a simple project by loading the classes dynamically, testing why using the static programming approach isn't working ...  
+
+<h3>Spring Project</h3>
+I try to apply the Inversion of control using Spring Framework.
+- Used an Instance of class Logger to log activities whener an instance of class DaoImpl is used.
+...
+- <p color ="red">imported external JARs</p> 
