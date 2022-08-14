@@ -7,7 +7,7 @@ I try to apply the Inversion of control on a simple project by loading the class
 
 <h3>Spring Project</h3>
 I try to apply the Inversion of control using Spring Framework.
-- Used an Instance of class Logger to log activities whener an instance of class DaoImpl is used.
-...
+<p>- Used an Instance of class Logger to log activities whener an instance of class DaoImpl is used.</p>
+<p>...</p>
 
 <p>- Imported external JARs to use Spring :)</p>
