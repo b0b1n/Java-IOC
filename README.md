@@ -9,4 +9,4 @@ I try to apply the Inversion of control on a simple project by loading the class
 I try to apply the Inversion of control using Spring Framework.
 - Used an Instance of class Logger to log activities whener an instance of class DaoImpl is used.
 ...
-- <p color ="red">imported external JARs</p> 
+- Imported external JARs to use Spring :)
